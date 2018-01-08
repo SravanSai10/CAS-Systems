@@ -128,8 +128,8 @@ expression2 = Numbers(expression[1])
 ##print(expression1.integer)
 ##print(type(expression1.integer))
 ##
-##print(expression2.string)
-##print(type(expression2.string))
+print(expression2.string)
+print(type(expression2.string))
 
 Operations.addition(expression1,expression2)
 print("----next----")
